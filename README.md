@@ -7,7 +7,7 @@ The project featch  the Alpha Vantage API to retrieve the necessary stock data  
 pandas, matplotlib, random,& scipy
 
 # How to use and Run the Project
-   We have to install and import some dependencies I will tell further, Firstly I will share tell the how to use this application.
+   We have to install and import some dependencies I will tell further, Firstly I will share that how to use this application.
     This application work for analyzing the historical stock prices.
     
  # Steps for handling applicaton
